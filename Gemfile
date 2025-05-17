@@ -2,9 +2,12 @@ source "https://rubygems.org"
 
 gem "rails", "~> 8.0.2"
 
+gem "bootstrap"
+gem "dartsass-rails"
 gem "devise"
 gem "importmap-rails"
 gem "jbuilder"
+gem "jquery-rails"
 gem "mysql2", "~> 0.5"
 gem "propshaft"
 gem "puma", ">= 5.0"
